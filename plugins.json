@@ -5,22 +5,6 @@
       "provider": "TODO",
       "releases": [
         {
-          "version": "1.1.0-RC2",
-          "date": "2020-07-13T21:28:16.713945Z",
-          "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-          "sha512sum": "fd6b68d820a69e029ea297392f89a1f53888f00006b880c2e47001d09bcb39932e65b7261bb36a5417dba6b932070fa09349cf2160a2942ba02215c20e3249c3",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/armory-observability-plugin-releases/releases/download/v1.1.0-RC2/armory-observability-plugin-v1.1.0-RC2.zip"
-        },
-        {
-          "version": "1.1.0-RC1",
-          "date": "2020-07-13T20:44:49.060025Z",
-          "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-          "sha512sum": "da16f143aa61ecafeb39d2b9874792477eb070a5b40258c933a7f5269307471fd46984b9c8dfa7780d78eea441863d8ed40950615f5882d023e2a6b77001c88f",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/armory-observability-plugin-releases/releases/download/v1.1.0-RC1/armory-observability-plugin-v1.1.0-RC1.zip"
-        },
-        {
           "version": "1.0.0",
           "date": "2020-07-09T16:22:09.295744Z",
           "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
