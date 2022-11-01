@@ -5,6 +5,14 @@
       "provider": "TODO",
       "releases": [
         {
+          "version": "1.4.1",
+          "date": "2022-11-01T15:40:52.955657Z",
+          "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
+          "sha512sum": "55644b894e4c2b3925030776df7d62e256ebe4b5ee5564be10d38d6b568f20c9d162ed7665d2e95994943ee39b2b711f9b7f0582c0d5c5c1d1f6fede48fda373",
+          "state": "",
+          "url": "https://github.com/armory-plugins/armory-observability-plugin-releases/releases/download/v1.4.1/armory-observability-plugin-v1.4.1.zip"
+        },
+        {
           "version": "1.3.1",
           "date": "2021-10-28T01:01:16.968198Z",
           "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
