@@ -3,6 +3,108 @@
   "releases" : [ {
     "commit" : "6c78e5ccba259ea80b130e3df6af536c84d98eef",
     "versions" : [ "1.4.1" ],
-    "compatibility" : [ ]
+    "compatibility" : [ {
+      "service" : "rosco",
+      "version" : "2023.02.28.17.41.47.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "rosco-armory",
+        "version" : "2023.02.28.18.00.39.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/11663475486",
+      "startedAt" : "2023-02-28T17:54:50Z"
+    }, {
+      "service" : "orca",
+      "version" : "2023.02.28.19.23.37.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.02.28.19.38.44.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/11665915483",
+      "startedAt" : "2023-02-28T19:35:51Z"
+    }, {
+      "service" : "kayenta",
+      "version" : "2023.02.28.21.15.17.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2023.02.28.21.43.52.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/11668413012",
+      "startedAt" : "2023-02-28T21:28:08Z"
+    }, {
+      "service" : "igor",
+      "version" : "2023.02.28.19.16.26.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "igor-armory",
+        "version" : "2023.02.28.19.35.11.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/11665915165",
+      "startedAt" : "2023-02-28T19:35:56Z"
+    }, {
+      "service" : "gate",
+      "version" : "2023.02.28.19.18.24.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.02.28.19.34.47.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/11665914727",
+      "startedAt" : "2023-02-28T19:35:50Z"
+    }, {
+      "service" : "front50",
+      "version" : "2023.02.28.19.17.06.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/11665914193",
+      "startedAt" : "2023-02-28T19:35:50Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2023.02.28.17.42.01.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.02.28.17.55.33.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/11663474096",
+      "startedAt" : "2023-02-28T17:54:45Z"
+    }, {
+      "service" : "echo",
+      "version" : "2023.02.28.19.16.55.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "echo-armory",
+        "version" : "2023.02.28.19.33.40.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/11665914214",
+      "startedAt" : "2023-02-28T19:35:49Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.02.28.19.32.28.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/11666216577",
+      "startedAt" : "2023-02-28T19:49:27Z"
+    } ]
   } ]
 }
