@@ -17,7 +17,7 @@
       "version" : "2023.03.06.18.30.36.release-1.29.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.29.3" ],
+      "platforms" : [ "1.29.4", "1.29.3" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12182455620",
       "startedAt" : "2023-03-22T05:54:47Z"
@@ -195,6 +195,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12270427671",
       "startedAt" : "2023-03-25T06:01:10Z"
+    }, {
+      "service" : "orca",
+      "version" : "2023.03.28.15.33.24.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.03.28.16.03.21.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12339376175",
+      "startedAt" : "2023-03-28T15:55:23Z"
     }, {
       "service" : "orca",
       "version" : "2023.03.28.15.32.53.release-1.28.x",
@@ -410,6 +422,15 @@
       "startedAt" : "2023-03-25T06:01:09Z"
     }, {
       "service" : "kayenta",
+      "version" : "2023.03.28.21.44.07.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12348453291",
+      "startedAt" : "2023-03-28T22:07:00Z"
+    }, {
+      "service" : "kayenta",
       "version" : "2023.03.28.19.09.35.release-1.28.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -573,6 +594,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12270430778",
       "startedAt" : "2023-03-25T06:01:23Z"
+    }, {
+      "service" : "igor",
+      "version" : "2023.03.27.19.23.59.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ {
+        "name" : "igor-armory",
+        "version" : "2023.03.27.19.34.45.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12313192577",
+      "startedAt" : "2023-03-27T19:36:29Z"
     }, {
       "service" : "igor",
       "version" : "2023.03.27.19.09.31.release-1.28.x",
@@ -743,6 +776,15 @@
       "startedAt" : "2023-03-25T06:01:21Z"
     }, {
       "service" : "gate",
+      "version" : "2023.03.27.19.25.10.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12313192303",
+      "startedAt" : "2023-03-27T19:36:28Z"
+    }, {
+      "service" : "gate",
       "version" : "2023.03.27.19.10.16.release-1.28.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -903,6 +945,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12270427352",
       "startedAt" : "2023-03-25T06:01:07Z"
+    }, {
+      "service" : "front50",
+      "version" : "2023.03.27.19.21.48.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12313191825",
+      "startedAt" : "2023-03-27T19:36:26Z"
     }, {
       "service" : "front50",
       "version" : "2023.03.27.19.08.11.release-1.28.x",
@@ -1295,6 +1346,18 @@
       "startedAt" : "2023-03-25T06:01:21Z"
     }, {
       "service" : "echo",
+      "version" : "2023.03.27.19.24.44.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ {
+        "name" : "echo-armory",
+        "version" : "2023.03.27.19.34.24.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12313191840",
+      "startedAt" : "2023-03-27T19:36:27Z"
+    }, {
+      "service" : "echo",
       "version" : "2023.03.27.19.10.41.release-1.28.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -1488,6 +1551,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12270429011",
       "startedAt" : "2023-03-25T06:01:15Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.03.28.15.52.04.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/12340240873",
+      "startedAt" : "2023-03-28T16:26:58Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.03.27.19.24.21.release-1.28.x",
