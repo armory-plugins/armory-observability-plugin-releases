@@ -1,12 +1,4 @@
 {
   "id" : "Armory.ObservabilityPlugin",
-  "releases" : [ {
-    "commit" : "c3039c8f713df1596a2b7cc6c5c2ce8c77d6d284",
-    "versions" : [ "1.4.2" ],
-    "compatibility" : [ ]
-  }, {
-    "commit" : "6c78e5ccba259ea80b130e3df6af536c84d98eef",
-    "versions" : [ "1.4.1" ],
-    "compatibility" : [ ]
-  } ]
+  "releases" : [ ]
 }
