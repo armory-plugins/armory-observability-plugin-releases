@@ -3,6 +3,24 @@
   "releases" : [ {
     "commit" : "c3039c8f713df1596a2b7cc6c5c2ce8c77d6d284",
     "versions" : [ "1.4.2" ],
-    "compatibility" : [ ]
+    "compatibility" : [ {
+      "service" : "kayenta",
+      "version" : "2023.04.13.23.42.23.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ "2.30.0-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2023.04.20.10.20.36.release-2.30.x"
+      }, {
+        "name" : "kayenta-armory",
+        "version" : "2023.04.19.20.52.24.release-2.30.x"
+      }, {
+        "name" : "kayenta-armory",
+        "version" : "2023.04.19.13.35.33.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/13105675758",
+      "startedAt" : "2023-04-28T16:45:18Z"
+    } ]
   } ]
 }
