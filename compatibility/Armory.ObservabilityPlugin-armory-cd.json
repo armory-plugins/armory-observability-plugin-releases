@@ -1,4 +1,26 @@
 {
   "id" : "Armory.ObservabilityPlugin",
-  "releases" : [ ]
+  "releases" : [ {
+    "commit" : "c3039c8f713df1596a2b7cc6c5c2ce8c77d6d284",
+    "versions" : [ "1.4.2" ],
+    "compatibility" : [ {
+      "service" : "igor",
+      "version" : "2023.09.20.18.55.09.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.2" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/16978087590",
+      "startedAt" : "2023-09-20T19:27:28Z"
+    }, {
+      "service" : "igor",
+      "version" : "2023.09.18.16.01.45.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/16895191512",
+      "startedAt" : "2023-09-18T16:18:49Z"
+    } ]
+  } ]
 }
