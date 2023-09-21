@@ -1145,6 +1145,15 @@
       "startedAt" : "2023-09-20T19:27:28Z"
     }, {
       "service" : "igor",
+      "version" : "2023.09.18.16.01.45.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/17019577636",
+      "startedAt" : "2023-09-21T21:09:22Z"
+    }, {
+      "service" : "igor",
       "version" : "2023.09.07.17.50.00.release-1.30.x",
       "outcome" : "success",
       "stacks" : [ ],
