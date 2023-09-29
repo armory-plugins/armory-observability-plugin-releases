@@ -25,7 +25,7 @@
       "service" : "rosco",
       "version" : "2023.08.18.20.06.48.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ "2.30.2-rc1", "2.30.1-rc2", "2.30.1-rc1", "2.30.2", "2.30.1" ],
+      "stacks" : [ "2.30.2-rc1", "2.30.1-rc2", "2.30.1-rc1", "2.30.3", "2.30.2", "2.30.1" ],
       "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "rosco-armory",
@@ -336,6 +336,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/17191378941",
       "startedAt" : "2023-09-27T18:28:13Z"
+    }, {
+      "service" : "orca",
+      "version" : "2023.09.26.15.03.20.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ "2.30.3" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.09.26.15.21.44.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/17147631058",
+      "startedAt" : "2023-09-26T16:04:34Z"
     }, {
       "service" : "orca",
       "version" : "2023.09.07.17.59.31.release-1.30.x",
@@ -802,7 +814,7 @@
       "service" : "kayenta",
       "version" : "2023.08.22.17.00.47.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ "2.30.2-rc1", "2.30.1-rc2", "2.30.2", "2.30.1" ],
+      "stacks" : [ "2.30.2-rc1", "2.30.1-rc2", "2.30.3", "2.30.2", "2.30.1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "kayenta-armory",
@@ -1156,7 +1168,7 @@
       "service" : "igor",
       "version" : "2023.09.07.17.50.00.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.30.3" ],
       "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "igor-armory",
@@ -1471,7 +1483,7 @@
       "service" : "gate",
       "version" : "2023.09.07.17.47.28.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.30.3" ],
       "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -1848,6 +1860,21 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/17191410971",
       "startedAt" : "2023-09-27T18:29:20Z"
+    }, {
+      "service" : "front50",
+      "version" : "2023.09.25.18.58.31.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ "2.30.3" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2023.09.26.07.25.54.release-2.30.x"
+      }, {
+        "name" : "front50-armory",
+        "version" : "2023.09.25.19.15.07.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/17114209342",
+      "startedAt" : "2023-09-25T19:25:07Z"
     }, {
       "service" : "front50",
       "version" : "2023.09.07.17.50.48.release-1.30.x",
@@ -2227,7 +2254,7 @@
       "service" : "fiat",
       "version" : "2023.08.22.18.06.01.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ "2.30.2-rc1", "2.30.1-rc2", "2.30.2", "2.30.1" ],
+      "stacks" : [ "2.30.2-rc1", "2.30.1-rc2", "2.30.3", "2.30.2", "2.30.1" ],
       "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -2593,7 +2620,7 @@
       "service" : "echo",
       "version" : "2023.09.07.17.49.13.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.30.3" ],
       "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "echo-armory",
