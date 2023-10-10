@@ -9,7 +9,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.31.2", "1.31.1" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "rosco-armory",
+        "version" : "2023.10.10.00.08.57.release-2.31.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/17191937307",
       "startedAt" : "2023-09-27T18:46:40Z"
     }, {
