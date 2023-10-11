@@ -3074,6 +3074,9 @@
       "platforms" : [ "1.31.2", "1.31.1" ],
       "extensions" : [ {
         "name" : "echo-armory",
+        "version" : "2023.10.11.14.33.25.release-2.31.x"
+      }, {
+        "name" : "echo-armory",
         "version" : "2023.09.28.23.04.19.release-2.31.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/17586553081",
