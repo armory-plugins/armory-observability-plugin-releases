@@ -1583,6 +1583,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "igor-armory",
+        "version" : "2023.10.12.07.47.51.release-2.31.x"
+      }, {
+        "name" : "igor-armory",
         "version" : "2023.09.21.18.03.01.release-2.31.x"
       }, {
         "name" : "igor-armory",
