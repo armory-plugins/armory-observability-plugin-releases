@@ -2798,6 +2798,9 @@
       "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "echo-armory",
+        "version" : "2023.11.02.08.44.16.release-2.30.x"
+      }, {
+        "name" : "echo-armory",
         "version" : "2023.09.21.17.06.47.release-2.30.x"
       }, {
         "name" : "echo-armory",
