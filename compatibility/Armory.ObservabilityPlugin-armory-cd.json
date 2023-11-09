@@ -23,6 +23,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "rosco-armory",
+        "version" : "2023.11.09.09.27.15.release-2.30.x"
+      }, {
+        "name" : "rosco-armory",
         "version" : "2023.10.18.06.16.00.release-2.30.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/18425106364",
