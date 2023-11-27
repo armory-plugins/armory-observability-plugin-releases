@@ -431,6 +431,21 @@
       "startedAt" : "2023-11-16T21:22:45Z"
     }, {
       "service" : "orca",
+      "version" : "2023.11.07.16.19.53.release-1.31.x",
+      "outcome" : "success",
+      "stacks" : [ "2.31.0-rc3" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.11.21.20.52.52.release-2.31.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2023.11.07.16.49.32.release-2.31.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/19060020494",
+      "startedAt" : "2023-11-27T15:12:54Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.11.07.00.08.28.release-1.30.x",
       "outcome" : "success",
       "stacks" : [ "2.30.5-rc1", "2.30.5" ],
