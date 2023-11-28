@@ -8,7 +8,7 @@
       "version" : "2023.10.18.06.02.57.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.0-rc3", "2.31.0-rc2" ],
-      "platforms" : [ ],
+      "platforms" : [ "1.31.3" ],
       "extensions" : [ {
         "name" : "rosco-armory",
         "version" : "2023.10.18.06.17.23.release-2.31.x"
@@ -434,7 +434,7 @@
       "version" : "2023.11.07.16.19.53.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.0-rc3" ],
-      "platforms" : [ ],
+      "platforms" : [ "1.31.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2023.11.21.20.52.52.release-2.31.x"
@@ -1016,7 +1016,7 @@
       "version" : "2023.08.29.15.29.59.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.0-rc3" ],
-      "platforms" : [ "1.31.2", "1.31.1" ],
+      "platforms" : [ "1.31.3", "1.31.2", "1.31.1" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
         "version" : "2023.11.23.14.35.34.release-2.31.x"
@@ -1505,7 +1505,7 @@
       "version" : "2023.08.29.04.59.43.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.0-rc3" ],
-      "platforms" : [ "1.31.2", "1.31.1" ],
+      "platforms" : [ "1.31.3", "1.31.2", "1.31.1" ],
       "extensions" : [ {
         "name" : "igor-armory",
         "version" : "2023.11.22.00.16.21.release-2.31.x"
@@ -1910,7 +1910,7 @@
       "version" : "2023.09.01.15.43.46.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.0-rc3", "2.31.0-rc2", "2.31.0-rc1" ],
-      "platforms" : [ "1.31.2" ],
+      "platforms" : [ "1.31.3", "1.31.2" ],
       "extensions" : [ {
         "name" : "gate-armory",
         "version" : "2023.10.12.06.06.55.release-2.31.x"
@@ -2324,7 +2324,7 @@
       "version" : "2023.09.05.18.25.32.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.0-rc3", "2.31.0-rc2", "2.31.0-rc1" ],
-      "platforms" : [ "1.31.2" ],
+      "platforms" : [ "1.31.3", "1.31.2" ],
       "extensions" : [ {
         "name" : "front50-armory",
         "version" : "2023.10.12.06.05.58.release-2.31.x"
@@ -2684,7 +2684,7 @@
       "version" : "2023.08.28.17.11.42.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.0-rc3" ],
-      "platforms" : [ "1.31.2", "1.31.1" ],
+      "platforms" : [ "1.31.3", "1.31.2", "1.31.1" ],
       "extensions" : [ {
         "name" : "fiat-armory",
         "version" : "2023.11.22.15.42.19.release-2.31.x"
@@ -3155,7 +3155,7 @@
       "version" : "2023.08.29.05.00.24.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.0-rc3", "2.31.0-rc2", "2.31.0-rc1" ],
-      "platforms" : [ "1.31.2", "1.31.1" ],
+      "platforms" : [ "1.31.3", "1.31.2", "1.31.1" ],
       "extensions" : [ {
         "name" : "echo-armory",
         "version" : "2023.11.02.10.19.09.release-2.31.x"
@@ -3558,6 +3558,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/18868395399",
       "startedAt" : "2023-11-20T22:08:59Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.11.20.21.43.26.release-1.31.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.31.3" ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.11.20.22.07.56.release-2.31.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/18868394119",
+      "startedAt" : "2023-11-20T22:08:57Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.09.20.19.42.06.release-1.31.x",
