@@ -17,6 +17,15 @@
       "startedAt" : "2023-11-16T21:24:59Z"
     }, {
       "service" : "rosco",
+      "version" : "2023.10.18.06.02.52.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.3" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/19091068067",
+      "startedAt" : "2023-11-28T10:40:11Z"
+    }, {
+      "service" : "rosco",
       "version" : "2023.10.18.06.02.34.release-1.30.x",
       "outcome" : "success",
       "stacks" : [ "2.30.5-rc1", "2.30.4-rc1", "2.30.5", "2.30.4" ],
@@ -444,6 +453,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/19060020494",
       "startedAt" : "2023-11-27T15:12:54Z"
+    }, {
+      "service" : "orca",
+      "version" : "2023.11.07.00.08.45.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.3" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/19091067666",
+      "startedAt" : "2023-11-28T10:40:09Z"
     }, {
       "service" : "orca",
       "version" : "2023.11.07.00.08.28.release-1.30.x",
