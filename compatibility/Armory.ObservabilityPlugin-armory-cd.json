@@ -911,6 +911,18 @@
       "startedAt" : "2023-12-06T02:42:17Z"
     }, {
       "service" : "kayenta",
+      "version" : "2023.11.21.08.03.04.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.6" ],
+      "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2023.11.21.08.27.32.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/19428115856",
+      "startedAt" : "2023-12-07T21:13:46Z"
+    }, {
+      "service" : "kayenta",
       "version" : "2023.09.07.18.49.57.release-1.30.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -3204,6 +3216,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/19354494709",
       "startedAt" : "2023-12-06T02:42:17Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.11.22.08.49.55.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.6" ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.11.22.09.17.06.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/19428115221",
+      "startedAt" : "2023-12-07T21:13:44Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.11.22.08.49.50.release-1.31.x",
