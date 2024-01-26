@@ -31,7 +31,7 @@
       "service" : "rosco",
       "version" : "2023.10.18.06.02.52.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.32.0-rc1" ],
       "platforms" : [ "1.32.3" ],
       "extensions" : [ {
         "name" : "rosco-armory",
@@ -313,7 +313,7 @@
       "service" : "orca",
       "version" : "2023.11.07.00.08.45.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.32.0-rc1" ],
       "platforms" : [ "1.32.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -998,6 +998,21 @@
       "startedAt" : "2023-12-21T03:47:41Z"
     }, {
       "service" : "igor",
+      "version" : "2024.01.22.15.24.36.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ "2.32.0-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "igor-armory",
+        "version" : "2024.01.23.19.43.22.release-2.32.x"
+      }, {
+        "name" : "igor-armory",
+        "version" : "2024.01.23.10.18.48.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/20734182746",
+      "startedAt" : "2024-01-22T15:43:40Z"
+    }, {
+      "service" : "igor",
       "version" : "2023.12.12.09.59.13.master",
       "outcome" : "success",
       "stacks" : [ ],
@@ -1309,7 +1324,7 @@
       "service" : "gate",
       "version" : "2023.09.01.15.44.50.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.32.0-rc1" ],
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -1564,7 +1579,7 @@
       "service" : "front50",
       "version" : "2023.09.05.18.32.03.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.32.0-rc1" ],
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -1816,7 +1831,7 @@
       "service" : "fiat",
       "version" : "2023.08.24.21.54.55.master",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.32.0-rc1" ],
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -2143,7 +2158,7 @@
       "service" : "echo",
       "version" : "2023.08.29.18.12.32.master",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.32.0-rc1" ],
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "echo-armory",
