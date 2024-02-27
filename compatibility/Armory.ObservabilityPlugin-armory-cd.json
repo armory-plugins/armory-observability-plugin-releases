@@ -416,6 +416,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "kayenta-armory",
+        "version" : "2024.02.27.14.56.01.release-2.31.x"
+      }, {
+        "name" : "kayenta-armory",
         "version" : "2023.12.02.02.57.12.release-2.31.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/21568386545",
