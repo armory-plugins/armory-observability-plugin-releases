@@ -140,6 +140,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
+        "version" : "2024.03.01.09.17.06.release-2.32.x"
+      }, {
+        "name" : "orca-armory",
         "version" : "2024.02.29.19.19.09.release-2.32.x"
       }, {
         "name" : "orca-armory",
@@ -614,6 +617,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "igor-armory",
+        "version" : "2024.03.01.09.18.24.release-2.32.x"
+      }, {
+        "name" : "igor-armory",
         "version" : "2024.02.29.19.22.30.release-2.32.x"
       }, {
         "name" : "igor-armory",
@@ -812,6 +818,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2024.03.01.09.18.12.release-2.32.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2024.02.27.08.29.49.release-2.32.x"
       }, {
         "name" : "gate-armory",
@@ -1009,6 +1018,9 @@
       "stacks" : [ "2.32.1-rc1", "2.32.0", "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2024.03.01.09.19.04.release-2.32.x"
+      }, {
         "name" : "front50-armory",
         "version" : "2024.02.29.19.15.24.release-2.32.x"
       }, {
@@ -1292,6 +1304,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "echo-armory",
+        "version" : "2024.03.01.09.16.27.release-2.32.x"
+      }, {
+        "name" : "echo-armory",
         "version" : "2024.02.29.19.20.48.release-2.32.x"
       }, {
         "name" : "echo-armory",
@@ -1429,6 +1444,9 @@
       "stacks" : [ "2.32.1-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.03.01.09.15.46.release-2.32.x"
+      }, {
         "name" : "clouddriver-armory",
         "version" : "2024.02.29.19.23.00.release-2.32.x"
       }, {
