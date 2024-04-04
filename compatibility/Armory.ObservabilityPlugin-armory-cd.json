@@ -7,7 +7,7 @@
       "service" : "rosco",
       "version" : "2024.03.08.16.49.31.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "rosco-armory",
@@ -457,7 +457,7 @@
       "service" : "kayenta",
       "version" : "2024.03.08.20.48.11.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
@@ -679,7 +679,7 @@
       "service" : "igor",
       "version" : "2024.03.08.19.18.39.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "igor-armory",
@@ -1075,7 +1075,7 @@
       "service" : "front50",
       "version" : "2024.03.08.19.18.53.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -1243,7 +1243,7 @@
       "service" : "fiat",
       "version" : "2024.03.08.16.48.59.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -1441,7 +1441,7 @@
       "service" : "echo",
       "version" : "2024.03.08.19.17.18.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "echo-armory",
@@ -1594,7 +1594,7 @@
       "service" : "clouddriver",
       "version" : "2024.03.08.19.52.28.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
