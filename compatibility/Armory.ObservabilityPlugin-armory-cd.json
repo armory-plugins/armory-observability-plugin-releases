@@ -5,6 +5,18 @@
     "versions" : [ "1.5.0" ],
     "compatibility" : [ {
       "service" : "rosco",
+      "version" : "2024.04.06.04.30.30.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.34.0" ],
+      "extensions" : [ {
+        "name" : "rosco-armory",
+        "version" : "2024.04.06.04.39.02.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23912875972",
+      "startedAt" : "2024-04-17T06:46:32Z"
+    }, {
+      "service" : "rosco",
       "version" : "2024.03.08.16.49.31.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
@@ -1319,6 +1331,18 @@
       "startedAt" : "2024-04-15T19:01:26Z"
     }, {
       "service" : "fiat",
+      "version" : "2024.04.06.04.25.40.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.34.0" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2024.04.06.04.39.28.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23912875935",
+      "startedAt" : "2024-04-17T06:46:32Z"
+    }, {
+      "service" : "fiat",
       "version" : "2024.03.08.16.48.59.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
@@ -1955,6 +1979,18 @@
     "commit" : "85a6bb1fd5c2a9fcbc18342f0d7e484bc91a54b2",
     "versions" : [ "1.4.3" ],
     "compatibility" : [ {
+      "service" : "rosco",
+      "version" : "2024.04.06.04.30.30.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.34.0" ],
+      "extensions" : [ {
+        "name" : "rosco-armory",
+        "version" : "2024.04.06.04.39.02.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23912876249",
+      "startedAt" : "2024-04-17T06:46:33Z"
+    }, {
       "service" : "rosco",
       "version" : "2024.03.08.16.49.31.release-1.32.x",
       "outcome" : "success",
@@ -3268,6 +3304,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23843892231",
       "startedAt" : "2024-04-15T19:01:26Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2024.04.06.04.25.40.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.34.0" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2024.04.06.04.39.28.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23912876244",
+      "startedAt" : "2024-04-17T06:46:33Z"
     }, {
       "service" : "fiat",
       "version" : "2024.03.08.16.48.59.release-1.32.x",
