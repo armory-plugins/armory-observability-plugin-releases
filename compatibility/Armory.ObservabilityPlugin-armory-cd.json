@@ -5,6 +5,15 @@
     "versions" : [ "1.5.0" ],
     "compatibility" : [ {
       "service" : "rosco",
+      "version" : "2024.04.18.17.06.07.release-1.34.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.34.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23989798993",
+      "startedAt" : "2024-04-18T17:24:00Z"
+    }, {
+      "service" : "rosco",
       "version" : "2024.04.16.23.56.03.release-1.33.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -182,7 +191,7 @@
       "version" : "2024.04.16.22.34.47.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2024.04.16.22.51.13.master"
@@ -533,7 +542,7 @@
       "version" : "2024.04.16.23.35.54.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23903762716",
       "startedAt" : "2024-04-17T00:04:09Z"
@@ -761,7 +770,7 @@
       "version" : "2024.04.16.22.31.21.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "igor-armory",
         "version" : "2024.04.16.22.52.10.master"
@@ -1007,7 +1016,7 @@
       "version" : "2024.04.16.22.30.44.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23902248510",
       "startedAt" : "2024-04-16T22:55:51Z"
@@ -1220,7 +1229,7 @@
       "version" : "2024.04.16.22.32.00.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "front50-armory",
         "version" : "2024.04.16.22.51.44.master"
@@ -1409,7 +1418,7 @@
       "version" : "2024.04.06.04.25.40.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "fiat-armory",
         "version" : "2024.04.06.04.39.28.master"
@@ -1616,7 +1625,7 @@
       "version" : "2024.04.16.22.32.13.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "echo-armory",
         "version" : "2024.04.16.22.53.22.master"
@@ -1788,6 +1797,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23843839611",
       "startedAt" : "2024-04-15T19:00:05Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2024.04.18.17.26.20.release-1.34.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.34.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23991109246",
+      "startedAt" : "2024-04-18T17:59:06Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.04.17.02.05.07.release-1.33.x",
@@ -2073,6 +2091,15 @@
     "versions" : [ "1.4.3" ],
     "compatibility" : [ {
       "service" : "rosco",
+      "version" : "2024.04.18.17.06.07.release-1.34.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.34.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23989798975",
+      "startedAt" : "2024-04-18T17:23:59Z"
+    }, {
+      "service" : "rosco",
       "version" : "2024.04.16.23.56.03.release-1.33.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -2250,7 +2277,7 @@
       "version" : "2024.04.16.22.34.47.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2024.04.16.22.51.13.master"
@@ -2601,7 +2628,7 @@
       "version" : "2024.04.16.23.35.54.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23903762737",
       "startedAt" : "2024-04-17T00:04:10Z"
@@ -2829,7 +2856,7 @@
       "version" : "2024.04.16.22.31.21.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "igor-armory",
         "version" : "2024.04.16.22.52.10.master"
@@ -3075,7 +3102,7 @@
       "version" : "2024.04.16.22.30.44.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23902248496",
       "startedAt" : "2024-04-16T22:55:52Z"
@@ -3288,7 +3315,7 @@
       "version" : "2024.04.16.22.32.00.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "front50-armory",
         "version" : "2024.04.16.22.51.44.master"
@@ -3477,7 +3504,7 @@
       "version" : "2024.04.06.04.25.40.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "fiat-armory",
         "version" : "2024.04.06.04.39.28.master"
@@ -3684,7 +3711,7 @@
       "version" : "2024.04.16.22.32.13.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.0" ],
+      "platforms" : [ "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "echo-armory",
         "version" : "2024.04.16.22.53.22.master"
@@ -3856,6 +3883,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23843840915",
       "startedAt" : "2024-04-15T19:00:08Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2024.04.18.17.26.20.release-1.34.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.34.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23991109556",
+      "startedAt" : "2024-04-18T17:59:06Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.04.17.02.05.07.release-1.33.x",
