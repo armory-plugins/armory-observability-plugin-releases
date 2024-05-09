@@ -37,7 +37,7 @@
       "service" : "rosco",
       "version" : "2024.03.08.16.49.31.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "rosco-armory",
@@ -177,6 +177,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23843840892",
       "startedAt" : "2024-04-15T19:00:08Z"
+    }, {
+      "service" : "orca",
+      "version" : "2024.05.07.00.09.39.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ "2.32.3-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2024.05.07.00.30.50.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/24657069764",
+      "startedAt" : "2024-05-07T00:37:01Z"
     }, {
       "service" : "orca",
       "version" : "2024.04.17.00.52.59.release-1.33.x",
@@ -550,7 +562,7 @@
       "service" : "kayenta",
       "version" : "2024.03.08.20.48.11.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
@@ -793,7 +805,7 @@
       "service" : "igor",
       "version" : "2024.03.08.19.18.39.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "igor-armory",
@@ -1024,7 +1036,7 @@
       "service" : "gate",
       "version" : "2024.03.25.21.57.21.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.2" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.2" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -1240,7 +1252,7 @@
       "service" : "front50",
       "version" : "2024.03.08.19.18.53.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -1429,7 +1441,7 @@
       "service" : "fiat",
       "version" : "2024.03.08.16.48.59.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -1648,7 +1660,7 @@
       "service" : "echo",
       "version" : "2024.03.08.19.17.18.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "echo-armory",
@@ -1797,6 +1809,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23843839611",
       "startedAt" : "2024-04-15T19:00:05Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2024.05.07.00.14.24.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ "2.32.3-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.05.07.00.28.50.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/24657071369",
+      "startedAt" : "2024-05-07T00:37:07Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.04.19.16.06.52.release-1.33.x",
@@ -2141,7 +2165,7 @@
       "service" : "rosco",
       "version" : "2024.03.08.16.49.31.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "rosco-armory",
@@ -2281,6 +2305,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23843841466",
       "startedAt" : "2024-04-15T19:00:09Z"
+    }, {
+      "service" : "orca",
+      "version" : "2024.05.07.00.09.39.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ "2.32.3-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2024.05.07.00.30.50.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/24657069765",
+      "startedAt" : "2024-05-07T00:37:01Z"
     }, {
       "service" : "orca",
       "version" : "2024.04.17.00.52.59.release-1.33.x",
@@ -2654,7 +2690,7 @@
       "service" : "kayenta",
       "version" : "2024.03.08.20.48.11.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
@@ -2897,7 +2933,7 @@
       "service" : "igor",
       "version" : "2024.03.08.19.18.39.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "igor-armory",
@@ -3128,7 +3164,7 @@
       "service" : "gate",
       "version" : "2024.03.25.21.57.21.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.2" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.2" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -3344,7 +3380,7 @@
       "service" : "front50",
       "version" : "2024.03.08.19.18.53.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -3533,7 +3569,7 @@
       "service" : "fiat",
       "version" : "2024.03.08.16.48.59.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -3752,7 +3788,7 @@
       "service" : "echo",
       "version" : "2024.03.08.19.17.18.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
+      "stacks" : [ "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "echo-armory",
@@ -3901,6 +3937,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23843840915",
       "startedAt" : "2024-04-15T19:00:08Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2024.05.07.00.14.24.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ "2.32.3-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.05.07.00.28.50.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/24657071398",
+      "startedAt" : "2024-05-07T00:37:04Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.04.19.16.06.52.release-1.33.x",
