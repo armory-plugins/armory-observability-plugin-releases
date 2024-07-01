@@ -384,7 +384,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.34.3" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2024.07.01.13.04.22.release-2.34.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/26248695879",
       "startedAt" : "2024-06-14T19:30:31Z"
     }, {
@@ -1822,7 +1825,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.34.3" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2024.07.01.13.04.22.release-2.34.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/26248695888",
       "startedAt" : "2024-06-14T19:30:31Z"
     }, {
