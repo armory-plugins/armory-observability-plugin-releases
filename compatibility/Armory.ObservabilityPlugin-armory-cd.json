@@ -11,6 +11,9 @@
       "platforms" : [ "1.34.3", "1.34.2", "1.34.1" ],
       "extensions" : [ {
         "name" : "rosco-armory",
+        "version" : "2024.07.02.10.31.01.release-2.34.x"
+      }, {
+        "name" : "rosco-armory",
         "version" : "2024.07.02.09.36.08.release-2.34.x"
       }, {
         "name" : "rosco-armory",
@@ -1547,6 +1550,9 @@
       "stacks" : [ "2.34.0-rc1" ],
       "platforms" : [ "1.34.3", "1.34.2", "1.34.1" ],
       "extensions" : [ {
+        "name" : "rosco-armory",
+        "version" : "2024.07.02.10.31.01.release-2.34.x"
+      }, {
         "name" : "rosco-armory",
         "version" : "2024.07.02.09.36.08.release-2.34.x"
       }, {
