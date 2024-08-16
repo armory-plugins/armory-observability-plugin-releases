@@ -5,6 +5,15 @@
     "versions" : [ "1.6.0" ],
     "compatibility" : [ {
       "service" : "rosco",
+      "version" : "2024.08.06.19.21.17.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.35.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/28882292331",
+      "startedAt" : "2024-08-16T23:26:34Z"
+    }, {
+      "service" : "rosco",
       "version" : "2024.04.18.17.06.07.release-1.34.x",
       "outcome" : "success",
       "stacks" : [ "2.34.0", "2.34.0-rc4", "2.34.0-rc3", "2.34.0-rc2", "2.34.0-rc1" ],
@@ -342,6 +351,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/28573680906",
       "startedAt" : "2024-08-09T14:50:40Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2024.08.06.19.16.43.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.35.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/28882292342",
+      "startedAt" : "2024-08-16T23:26:34Z"
     }, {
       "service" : "fiat",
       "version" : "2024.04.27.01.37.20.master",
