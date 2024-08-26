@@ -860,6 +860,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2024.08.26.11.53.09.release-2.32.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2024.03.25.22.27.15.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29057452498",
@@ -2586,6 +2589,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2024.08.26.11.53.09.release-2.32.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2024.03.25.22.27.15.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29057456032",
@@ -4206,6 +4212,9 @@
       "stacks" : [ "2.32.3-rc3", "2.32.3-rc2", "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.3", "2.32.2" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2024.08.26.11.53.09.release-2.32.x"
+      }, {
         "name" : "gate-armory",
         "version" : "2024.03.25.22.27.15.release-2.32.x"
       } ],
