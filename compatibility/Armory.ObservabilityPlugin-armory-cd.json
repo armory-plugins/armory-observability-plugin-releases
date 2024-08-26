@@ -1205,6 +1205,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "fiat-armory",
+        "version" : "2024.08.26.11.04.40.release-2.32.x"
+      }, {
+        "name" : "fiat-armory",
         "version" : "2024.04.03.10.25.13.release-2.32.x"
       }, {
         "name" : "fiat-armory",
@@ -2928,6 +2931,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "fiat-armory",
+        "version" : "2024.08.26.11.04.40.release-2.32.x"
+      }, {
+        "name" : "fiat-armory",
         "version" : "2024.04.03.10.25.13.release-2.32.x"
       }, {
         "name" : "fiat-armory",
@@ -4491,6 +4497,9 @@
       "stacks" : [ "2.32.3-rc3", "2.32.3-rc2", "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.3", "2.32.2", "2.32.1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2024.08.26.11.04.40.release-2.32.x"
+      }, {
         "name" : "fiat-armory",
         "version" : "2024.04.03.10.25.13.release-2.32.x"
       }, {
