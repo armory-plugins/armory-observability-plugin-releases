@@ -1388,6 +1388,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "echo-armory",
+        "version" : "2024.08.26.10.56.51.release-2.32.x"
+      }, {
+        "name" : "echo-armory",
         "version" : "2024.03.08.22.02.26.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29057452464",
@@ -3108,6 +3111,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "echo-armory",
+        "version" : "2024.08.26.10.56.51.release-2.32.x"
+      }, {
+        "name" : "echo-armory",
         "version" : "2024.03.08.22.02.26.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29057453777",
@@ -4644,6 +4650,9 @@
       "stacks" : [ "2.32.3-rc3", "2.32.3-rc2", "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.3", "2.32.2", "2.32.1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "echo-armory",
+        "version" : "2024.08.26.10.56.51.release-2.32.x"
+      }, {
         "name" : "echo-armory",
         "version" : "2024.03.08.22.02.26.release-2.32.x"
       } ],
