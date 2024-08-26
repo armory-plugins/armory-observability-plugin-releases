@@ -683,6 +683,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "igor-armory",
+        "version" : "2024.08.26.12.06.51.release-2.32.x"
+      }, {
+        "name" : "igor-armory",
         "version" : "2024.03.08.22.06.42.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29057454086",
@@ -2412,6 +2415,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "igor-armory",
+        "version" : "2024.08.26.12.06.51.release-2.32.x"
+      }, {
+        "name" : "igor-armory",
         "version" : "2024.03.08.22.06.42.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29057511919",
@@ -4059,6 +4065,9 @@
       "stacks" : [ "2.32.3-rc3", "2.32.3-rc2", "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.3", "2.32.2", "2.32.1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "igor-armory",
+        "version" : "2024.08.26.12.06.51.release-2.32.x"
+      }, {
         "name" : "igor-armory",
         "version" : "2024.03.08.22.06.42.release-2.32.x"
       } ],
