@@ -21,7 +21,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "rosco-armory",
+        "version" : "2024.08.26.15.52.14.master"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/28882292331",
       "startedAt" : "2024-08-16T23:26:34Z"
     }, {
@@ -487,6 +490,9 @@
       "stacks" : [ "2.32.3-rc3", "2.32.3-rc2", "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.3", "2.32.2", "2.32.1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2024.08.26.15.59.57.release-2.32.x"
+      }, {
         "name" : "kayenta-armory",
         "version" : "2024.03.08.22.16.33.release-2.32.x"
       } ],
@@ -1753,7 +1759,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "rosco-armory",
+        "version" : "2024.08.26.15.52.14.master"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/28426309971",
       "startedAt" : "2024-08-06T19:46:29Z"
     }, {
@@ -2219,6 +2228,9 @@
       "stacks" : [ "2.32.3-rc3", "2.32.3-rc2", "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.3", "2.32.2", "2.32.1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2024.08.26.15.59.57.release-2.32.x"
+      }, {
         "name" : "kayenta-armory",
         "version" : "2024.03.08.22.16.33.release-2.32.x"
       } ],
@@ -3473,7 +3485,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "rosco-armory",
+        "version" : "2024.08.26.15.52.14.master"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/28426310206",
       "startedAt" : "2024-08-06T19:46:29Z"
     }, {
@@ -3894,6 +3909,9 @@
       "stacks" : [ "2.32.3-rc3", "2.32.3-rc2", "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.3", "2.32.2", "2.32.1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2024.08.26.15.59.57.release-2.32.x"
+      }, {
         "name" : "kayenta-armory",
         "version" : "2024.03.08.22.16.33.release-2.32.x"
       } ],
