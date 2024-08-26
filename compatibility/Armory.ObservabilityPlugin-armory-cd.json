@@ -1152,7 +1152,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2024.08.26.10.09.17.master"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/28882292342",
       "startedAt" : "2024-08-16T23:26:34Z"
     }, {
@@ -2869,7 +2872,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2024.08.26.10.09.17.master"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/28426308709",
       "startedAt" : "2024-08-06T19:46:27Z"
     }, {
@@ -4427,7 +4433,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2024.08.26.10.09.17.master"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/28426308850",
       "startedAt" : "2024-08-06T19:46:27Z"
     }, {
