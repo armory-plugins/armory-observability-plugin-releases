@@ -7,7 +7,7 @@
       "service" : "rosco",
       "version" : "2024.08.17.00.00.56.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "rosco-armory",
@@ -148,7 +148,7 @@
       "service" : "orca",
       "version" : "2024.08.17.03.26.59.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -439,7 +439,7 @@
       "service" : "kayenta",
       "version" : "2024.08.17.05.49.51.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
@@ -625,7 +625,7 @@
       "service" : "igor",
       "version" : "2024.08.17.03.16.09.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "igor-armory",
@@ -826,7 +826,7 @@
       "service" : "gate",
       "version" : "2024.08.17.03.15.23.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -1000,7 +1000,7 @@
       "service" : "front50",
       "version" : "2024.08.23.16.11.18.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -1177,7 +1177,7 @@
       "service" : "fiat",
       "version" : "2024.08.16.23.56.14.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -1351,7 +1351,7 @@
       "service" : "echo",
       "version" : "2024.08.17.03.16.29.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "echo-armory",
@@ -1543,7 +1543,7 @@
       "service" : "clouddriver",
       "version" : "2024.08.18.02.43.56.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
@@ -1793,7 +1793,7 @@
       "service" : "rosco",
       "version" : "2024.08.17.00.00.56.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "rosco-armory",
@@ -1934,7 +1934,7 @@
       "service" : "orca",
       "version" : "2024.08.17.03.26.59.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -2225,7 +2225,7 @@
       "service" : "kayenta",
       "version" : "2024.08.17.05.49.51.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
@@ -2411,7 +2411,7 @@
       "service" : "igor",
       "version" : "2024.08.17.03.16.09.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "igor-armory",
@@ -2612,7 +2612,7 @@
       "service" : "gate",
       "version" : "2024.08.17.03.15.23.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -2786,7 +2786,7 @@
       "service" : "front50",
       "version" : "2024.08.23.16.11.18.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -2963,7 +2963,7 @@
       "service" : "fiat",
       "version" : "2024.08.16.23.56.14.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -3137,7 +3137,7 @@
       "service" : "echo",
       "version" : "2024.08.17.03.16.29.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "echo-armory",
@@ -3329,7 +3329,7 @@
       "service" : "clouddriver",
       "version" : "2024.08.18.02.43.56.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.1-rc1" ],
+      "stacks" : [ "2.34.1-rc1", "2.34.1" ],
       "platforms" : [ "1.34.5", "1.34.4" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
