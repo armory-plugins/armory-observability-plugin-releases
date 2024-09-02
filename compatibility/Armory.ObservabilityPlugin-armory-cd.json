@@ -461,6 +461,18 @@
       "startedAt" : "2024-08-13T23:40:09Z"
     }, {
       "service" : "kayenta",
+      "version" : "2024.08.08.22.44.15.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ "2.32.5" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2024.08.27.07.29.25.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29557118483",
+      "startedAt" : "2024-09-02T09:52:56Z"
+    }, {
+      "service" : "kayenta",
       "version" : "2024.06.14.19.10.09.release-1.34.x",
       "outcome" : "success",
       "stacks" : [ "2.34.0", "2.34.0-rc4", "2.34.0-rc3", "2.34.0-rc2", "2.34.0-rc1" ],
@@ -2245,6 +2257,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/28735791456",
       "startedAt" : "2024-08-13T23:40:09Z"
+    }, {
+      "service" : "kayenta",
+      "version" : "2024.08.08.22.44.15.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ "2.32.5" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2024.08.27.07.29.25.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29557118452",
+      "startedAt" : "2024-09-02T09:52:55Z"
     }, {
       "service" : "kayenta",
       "version" : "2024.06.14.19.10.09.release-1.34.x",
