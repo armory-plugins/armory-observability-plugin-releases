@@ -642,7 +642,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.4", "1.35.3" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2024.10.31.10.12.52.release-2.35.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29176598475",
       "startedAt" : "2024-08-23T16:41:27Z"
     }, {
@@ -1017,7 +1020,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.4" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.10.31.10.08.08.release-2.35.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29323520291",
       "startedAt" : "2024-08-27T17:21:13Z"
     }, {
@@ -1852,7 +1858,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.4", "1.35.3" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2024.10.31.10.12.52.release-2.35.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29176598211",
       "startedAt" : "2024-08-23T16:41:25Z"
     }, {
@@ -2227,7 +2236,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.4" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.10.31.10.08.08.release-2.35.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/29323520323",
       "startedAt" : "2024-08-27T17:21:11Z"
     }, {
