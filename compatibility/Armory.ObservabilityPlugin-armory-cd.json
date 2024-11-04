@@ -320,6 +320,9 @@
       "platforms" : [ "1.35.4", "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
+        "version" : "2024.11.04.22.00.40.release-2.35.x"
+      }, {
+        "name" : "kayenta-armory",
         "version" : "2024.09.03.14.41.59.release-2.35.x"
       }, {
         "name" : "kayenta-armory",
@@ -1535,6 +1538,9 @@
       "stacks" : [ ],
       "platforms" : [ "1.35.4", "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
       "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2024.11.04.22.00.40.release-2.35.x"
+      }, {
         "name" : "kayenta-armory",
         "version" : "2024.09.03.14.41.59.release-2.35.x"
       }, {
