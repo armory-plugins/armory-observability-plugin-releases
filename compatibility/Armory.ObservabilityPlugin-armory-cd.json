@@ -316,7 +316,7 @@
       "service" : "kayenta",
       "version" : "2024.08.13.23.14.13.master",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.35.0-rc1" ],
       "platforms" : [ "1.35.4", "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
@@ -643,7 +643,7 @@
       "service" : "front50",
       "version" : "2024.08.23.16.11.34.release-1.35.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.35.0-rc1" ],
       "platforms" : [ "1.35.4", "1.35.3" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -1538,7 +1538,7 @@
       "service" : "kayenta",
       "version" : "2024.08.13.23.14.13.master",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.35.0-rc1" ],
       "platforms" : [ "1.35.4", "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
@@ -1865,7 +1865,7 @@
       "service" : "front50",
       "version" : "2024.08.23.16.11.34.release-1.35.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.35.0-rc1" ],
       "platforms" : [ "1.35.4", "1.35.3" ],
       "extensions" : [ {
         "name" : "front50-armory",
