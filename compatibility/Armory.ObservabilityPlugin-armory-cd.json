@@ -1467,9 +1467,5 @@
       "checkRunUrl" : "https://github.com/armory-plugins/armory-observability-plugin/runs/23905122584",
       "startedAt" : "2024-04-17T00:56:21Z"
     } ]
-  }, {
-    "commit" : "c3039c8f713df1596a2b7cc6c5c2ce8c77d6d284",
-    "versions" : [ "1.4.2" ],
-    "compatibility" : [ ]
   } ]
 }
