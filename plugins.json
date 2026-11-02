@@ -4,6 +4,13 @@
       "description": "A plugin for configuring and customizing Micrometer for Armory.",
       "provider": "TODO",
       "releases": [
+      {
+        "version": "3.0.0",
+        "date": "2026-11-02T09:27:23.096523Z",
+        "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
+        "sha512sum": "2d2577cb5efc81967ea94d31e12f5fb93ef55083c96ce95ac4e24812e423d8f20b8dc36b265cdfdadc9fbe58b0ddc8002041cb884334872d2b3ca7a27e044067",
+        "url": "https://github.com/armory-plugins/armory-observability-plugin/releases/download/v3.0.0/armory-observability-plugin-v3.0.0.zip"
+      },
        {
           "version": "2.0.0",
           "date": "2025-12-01T15:41:56.562297457Z",
